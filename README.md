@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Amir Hamza Khan</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p align="center">Hello I'm Amir Hamza from Dhaka, Bangladesh. I have 5+ year of experienced in Full Stack Web Development, and Motion Artist. I have worked with so many satisfied clients. If you want to work with me, feel free to knock me. Also you can knock me if you want any help. 
+<p align="center">Hello I'm Amir Hamza from Dhaka, Bangladesh. I have 5+ year of experienced in Full Stack Web Development, and Motion Artist. I have worked with so many satisfied clients. If you want to work with me, feel free to knock me. Also you can knock me if you want any help.<br>
 Thank You.</p>
 
 ## Skill & Exprience:
