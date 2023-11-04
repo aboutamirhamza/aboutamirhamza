@@ -2,9 +2,10 @@
 
 <h1 align="center">Hi there 👋, I'm Amir Hamza Khan</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-
+<br>
 <p align="center">Hello I'm Amir Hamza from Dhaka, Bangladesh. I have 5+ year of experienced in Full Stack Web Development, and Motion Artist. I have worked with so many satisfied clients. If you want to work with me, feel free to knock me. Also you can knock me if you want any help.<br>
 Thank You.</p>
+<br>
 
 ## Skill & Exprience:
 ✅ HTML <br>
@@ -22,7 +23,7 @@ Thank You.</p>
 ✅ Premiere Pro <br>
 ✅ Cinema 4D <br>
 
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboutamirhamza&label=Profile%20views&color=0e75b6&style=flat" alt="aboutamirhamza" /> </p>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aboutamirhamza" alt="aboutamirhamza" /></a> </p>
