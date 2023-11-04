@@ -8,6 +8,23 @@ Thank You.
 
 Skills: HTML / CSS / Bootstrap / Tailwind / JS / ReactJS / VueJS / PHP / Laravel
 
+## Skill & Exprience:
+✅ HTML <br>
+✅ CSS <br>
+✅ Bootstrap <br>
+✅ Tailwind <br>
+✅ JavaScript <br>
+✅ ReactJS <br>
+✅ VueJS <br>
+✅ PHP <br>
+✅ Laravel <br>
+✅ Wordpress <br>
+✅ Photoshop / Illustrator <br>
+✅ After Effect <br>
+✅ Premiere Pro <br>
+✅ Cinema 4D <br>
+
+
 - 🔭 I’m currently working on Coding Hub 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
