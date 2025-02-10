@@ -18,10 +18,6 @@ Thank You.</p>
 ✅ PHP <br>
 ✅ Laravel <br>
 ✅ Wordpress <br>
-✅ Photoshop / Illustrator <br>
-✅ After Effect <br>
-✅ Premiere Pro <br>
-✅ Cinema 4D <br>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboutamirhamza&label=Profile%20views&color=0e75b6&style=flat" alt="aboutamirhamza" /> </p>
