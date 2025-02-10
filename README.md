@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Amir Hamza Khan</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 <br>
-<p align="center">Hello I'm Amir Hamza from Dhaka, Bangladesh. I have 5+ year of experienced in Full Stack Web Development, and Motion Artist. I have worked with so many satisfied clients. If you want to work with me, feel free to knock me. Also you can knock me if you want any help.<br>
+<p align="center">Hello I'm Amir Hamza from Dhaka, Bangladesh. I have 5+ year of experienced in Full Stack Web Development. I have worked with so many satisfied clients. If you want to work with me, feel free to knock me. Also you can knock me if you want any help.<br>
 Thank You.</p>
 <br>
 
@@ -17,7 +17,8 @@ Thank You.</p>
 ✅ VueJS <br>
 ✅ PHP <br>
 ✅ Laravel <br>
-✅ Wordpress <br>
+✅ Wordpress ![image](https://github.com/user-attachments/assets/a15ecf36-985b-4413-9726-f9299debcd27)
+ <br>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboutamirhamza&label=Profile%20views&color=0e75b6&style=flat" alt="aboutamirhamza" /> </p>
