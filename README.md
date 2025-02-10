@@ -15,7 +15,7 @@ Thank You.</p>
 ✅ VueJS <br>
 ✅ PHP <br>
 ✅ Laravel <br>
-✅ Wordpress &#xf52b; <br>
+✅ Wordpress <br>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboutamirhamza&label=Profile%20views&color=0e75b6&style=flat" alt="aboutamirhamza" /> </p>
