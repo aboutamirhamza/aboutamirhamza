@@ -1,5 +1,3 @@
-![Full Stack Web Developer](https://scontent.fdac24-3.fna.fbcdn.net/v/t1.6435-9/110314364_3148007671949855_4461905976384997743_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=2be8e3&_nc_eui2=AeG_lHVFLvuepGnsVUg_Qn5bW078-WXMRaBbTvz5ZcxFoCOzFNidssIcRPUsXA8DQdljvapZWFrXJfeOCIP430BG&_nc_ohc=JXgwfBxQncsAX9hADH2&_nc_ht=scontent.fdac24-3.fna&oh=00_AfDXq0H5L6pme8Rd2QwQS0fjTdhFMM6rIgjP8-ycw5RYWQ&oe=656D661E)
-
 <h1 align="center">Hi there 👋, I'm Amir Hamza Khan</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 <br>
@@ -17,7 +15,7 @@ Thank You.</p>
 ✅ VueJS <br>
 ✅ PHP <br>
 ✅ Laravel <br>
-✅ Wordpress <br>
+✅ Wordpress &#xf52b; <br>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboutamirhamza&label=Profile%20views&color=0e75b6&style=flat" alt="aboutamirhamza" /> </p>
