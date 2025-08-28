@@ -47,7 +47,7 @@ Thank You.</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aboutamirhamza&" alt="aboutamirhamza" /></p>
 <br>
 
-- 🔭 I’m currently working on ThemePure 
+- 🔭 I’m currently working on ThemeLoop
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
 
