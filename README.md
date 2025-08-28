@@ -20,12 +20,7 @@ Thank You.</p>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboutamirhamza&label=Profile%20views&color=0e75b6&style=flat" alt="aboutamirhamza" /> </p>
-<br>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aboutamirhamza&theme=algolia&row=1&column=7&margin-w=15&margin-h=15" alt="aboutamirhamza trophies"/>
-  </a>
-</p>
+
 
 
 <br>
