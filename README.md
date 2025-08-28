@@ -23,9 +23,10 @@ Thank You.</p>
 <br>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aboutamirhamza&theme=algolia&row=1&margin-w=10&margin-h=10" alt="aboutamirhamza" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aboutamirhamza&theme=algolia&row=1&column=7&margin-w=15&margin-h=15" alt="aboutamirhamza trophies"/>
   </a>
 </p>
+
 
 <br>
 <p align="left"> <a href="https://twitter.com/aboutamirhamza" target="blank"><img src="https://img.shields.io/twitter/follow/aboutamirhamza?logo=twitter&style=for-the-badge" alt="aboutamirhamza" /></a> </p>
