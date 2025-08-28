@@ -21,7 +21,7 @@ Thank You.</p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboutamirhamza&label=Profile%20views&color=0e75b6&style=flat" alt="aboutamirhamza" /> </p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=aboutamirhamza](https://github-profile-trophy.vercel.app/?username=aboutamirhamza)" alt="aboutamirhamza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aboutamirhamza" alt="aboutamirhamza" /></a> </p>
 <br>
 <p align="left"> <a href="https://twitter.com/aboutamirhamza" target="blank"><img src="https://img.shields.io/twitter/follow/aboutamirhamza?logo=twitter&style=for-the-badge" alt="aboutamirhamza" /></a> </p>
 
